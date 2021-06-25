@@ -129,6 +129,7 @@
 .question-wrapper .actions > a {
     display: flex;
     align-items: center;
+    color: var(--grey-dark);
 }
 
 .question-wrapper .actions > a > img {
